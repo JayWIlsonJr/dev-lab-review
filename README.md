@@ -1,6 +1,6 @@
 # dev-environment-lab
 
-![Money Shot](https://imgur.com/a/QnMLhBx)
+![Money Shot](https://i.imgur.com/UV3vvaF.png)
 
 ## OS
 
